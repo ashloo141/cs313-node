@@ -1,0 +1,11 @@
+{
+  "name": "pr_calculator",
+  "version": "1.0.0",
+  "description": "CS 313 Week 09: Postal Rate Calculator.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ashley Loo",
+  "license": "ISC"
+}
