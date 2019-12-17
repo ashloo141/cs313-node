@@ -1,6 +1,6 @@
 {
   "name": "todolist",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Project using node.js and express that makes a to do list for organization purposes.",
   "main": "index.js",
   "scripts": {
